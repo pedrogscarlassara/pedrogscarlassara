@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Pedro</h1>
+
 - I’m currently learning **Boto3**
 
 - I’m looking to collaborate on **AWS native projects**
