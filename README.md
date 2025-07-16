@@ -2,8 +2,11 @@
 
 # About Me
 I’m currently learning Boto3
+
 I’m looking to collaborate on AWS native projects
+
 Ask me about Cloud Computing
+
 Reach me at pedrogscarlassara@gmail.com
 
 ## Socials
